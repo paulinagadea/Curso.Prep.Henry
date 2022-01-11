@@ -1,0 +1,11 @@
+* Variables: son utilizadas para guardar un valor que se utilizará más adelante.
+
+* Strings: son texto definido entre comillas, cualquier texto entre comillas es un string.
+
+* Funciones (argumentos, return): es un objeto que ejecuta codigo. 
+Los argumentos son variables, podemos utilizar muchas variables dentro de una función.
+Return se utiliza cuando queremos que nuestra función nos devuelva o "muestre" algo.
+
+* Declaraciones if: evalua una declaración, si es verdadera (true) ejecuta un bloque de codigo, si no lo es (false) ejecutará otras sentencias.
+
+* Valores booleanos (true, false): determinan si un valor es verdadero (true) o falso (false).
