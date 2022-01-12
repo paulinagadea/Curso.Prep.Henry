@@ -1,0 +1,7 @@
+*For: es un bucle, evalua una declaracion y se ejecuta mientras dicha declaracion sea verdadera.
+
+*&&: es un operador logico, evalua dos expresiones y devuelve true si ambas expresiones son verdaderas.
+
+*||: es un operador logico, evalua dos expresiones y devuelve true si al menos una de ellas es verdadera.
+
+*!: devuelve el valor booleano opuesto del que recibe.
