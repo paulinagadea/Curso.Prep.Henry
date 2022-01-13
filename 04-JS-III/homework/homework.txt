@@ -1,0 +1,1 @@
+*Arrays: actuan como contenedores donde podemos guardar muchos datos de distintos tipos, por ejemplo strings, numeros, etc.
