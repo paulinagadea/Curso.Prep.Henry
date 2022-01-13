@@ -1,0 +1,15 @@
+*Objetos: son colecciones de datos como los arrays, con la diferencia de que los objetos contienen mucha
+información sobre una misma cosa.
+
+*Propiedades: definen las características del objeto, son como variables ya que se les puede asignar un valor.
+
+*Metodos: son funciones guardadas en objetos.
+
+*Bucle for...in: es un bucle que se utiliza para recorrer todas las claves (propiedades) de un objeto.
+
+*Notacion de puntos: es una de las dos maneras de acceder a las propiedades de un objeto. Se utiliza escribiendo
+el nombre del objeto, un punto y el nombre de la propiedad.
+
+*Notacion de corchetes: es la segunda forma de acceder a las propiedades de un objeto. Se utiliza de la misma
+forma de la notacion de puntos pero en vez de separar el objeto y la propiedad con un punto, se escribe la 
+propiedad dentro de corchetes.
