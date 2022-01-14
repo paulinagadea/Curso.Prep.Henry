@@ -1,0 +1,5 @@
+*Prototype: es la forma de establecer un metodo una vez y darle acceso a todos los objetos de 
+la clase.
+
+*Constructors (de clases): es un metodo que inicializa un objeto de una clase, se le asignan 
+los valores del nuevo objeto.
