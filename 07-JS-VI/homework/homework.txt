@@ -1,0 +1,2 @@
+*Funciones callback: Estas funciones pueden llamarse en cualquier momento y pasar como argumentos 
+dentro de la función.
